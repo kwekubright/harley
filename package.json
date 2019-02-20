@@ -166,7 +166,6 @@
       "cordova-plugin-statusbar": {},
       "cordova-plugin-whitelist": {},
       "cordova-plugin-zip": {},
-      "cordova-sqlite-storage": {},
       "nl.kingsquare.cordova.background-audio": {},
       "phonegap-plugin-push": {
         "SENDER_ID": "694767596569"
